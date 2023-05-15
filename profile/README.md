@@ -4,7 +4,7 @@
 
 <!-- badges: end -->
 
-Inspiration coming from the <https://github.com/sportsdataverse>, I found there was no common place with Olympic data. After discovering many of the events at the Olympics have public access to data I decided to start this project. Here is a list of the Olympic events and webpage information.
+Inspiration coming from the <https://github.com/sportsdataverse>, I found there was no common place with Olympic data. After discovering many of the events at the Olympics have public access to data I decided to start this organization with the intent of data distribution. Here is a list of the Olympic events and webpage information and API documentation (if avaiable).
 
 ### Sources: 
 
