@@ -14,8 +14,8 @@ Inspiration coming from the <https://github.com/sportsdataverse>, I found there 
 
 ### Summer games
 
-|               |               |               |               |                      |                                                                                                                                                                                                                                                                                                                |
-|---------------|---------------|---------------|---------------|----------------------|
+|                         |                |        |                                  |                                                                                                                                                                                                                                                                                                               |
+|---------------|---------------|---------------|---------------|---------------|
 | Sport (Discipline)      | Sport (Inital) | Body   | Webpage                          | Webpage API                                                                                                                                                                                                                                                                                                   |
 | Artistic Swimming       | SWA            | WAqua  | <https://www.worldaquatics.com/> | No official API documentation, this will need an email or trial and error with a page like so [<https://api.worldaquatics.com/fina/competitions/3085/events>]                                                                                                                  |
 | Diving                  | DIV            | WAqua  | <https://www.worldaquatics.com/> | No official API documentation, this will need an email or trial and error with a page like so [<https://api.worldaquatics.com/fina/competitions/3085/events>]                                                                                                              |
