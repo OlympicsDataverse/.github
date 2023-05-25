@@ -17,6 +17,8 @@ organization with the intent of a data distribution knowledge base.
 
 - <https://olympics.com/en/sports/>
 
+### Summer sports:
+
 <div style="border: 1px solid #ddd; padding: 0px; overflow-y: scroll; height:400px; ">
 
 <table class=" lightable-paper" style="font-family: &quot;Arial Narrow&quot;, arial, helvetica, sans-serif; margin-left: auto; margin-right: auto;">
@@ -493,7 +495,7 @@ BDM
 BWF
 </td>
 <td style="text-align:left;">
-<http://bwfbadminton.com>
+bwfbadminton.com
 </td>
 <td style="text-align:left;">
 extranet-lv.bwfbadminton.com/api
@@ -544,7 +546,7 @@ FEN
 FIE
 </td>
 <td style="text-align:left;">
-<http://fie.org>
+fie.org
 </td>
 <td style="text-align:left;">
 None found
@@ -612,7 +614,7 @@ HBL
 IHF
 </td>
 <td style="text-align:left;">
-<http://www.ihf.info>
+www.ihf.info
 </td>
 <td style="text-align:left;">
 None found
@@ -697,7 +699,7 @@ SAL
 WSail
 </td>
 <td style="text-align:left;">
-www.sailing.org/
+www.sailing.org
 </td>
 <td style="text-align:left;">
 None found
@@ -714,7 +716,7 @@ SHO
 ISSF
 </td>
 <td style="text-align:left;">
-<http://www.issf-sports.org/>
+www.issf-sports.org
 </td>
 <td style="text-align:left;">
 None found
@@ -731,7 +733,7 @@ SKB
 WSkate
 </td>
 <td style="text-align:left;">
-<http://www.worldskate.org/>
+www.worldskate.org
 </td>
 <td style="text-align:left;">
 None found
@@ -748,7 +750,7 @@ CLB
 IFSC
 </td>
 <td style="text-align:left;">
-<http://www.ifsc-climbing.org/>
+www.ifsc-climbing.org
 </td>
 <td style="text-align:left;">
 None found
@@ -765,7 +767,7 @@ SRF
 ISA
 </td>
 <td style="text-align:left;">
-www.isasurf.org/
+www.isasurf.org
 </td>
 <td style="text-align:left;">
 None found
@@ -782,7 +784,7 @@ TTE
 ITTF
 </td>
 <td style="text-align:left;">
-www.ittf.com/
+www.ittf.com
 </td>
 <td style="text-align:left;">
 None found
@@ -799,7 +801,7 @@ TKW
 WT
 </td>
 <td style="text-align:left;">
-<http://www.worldtaekwondo.org/>
+www.worldtaekwondo.org
 </td>
 <td style="text-align:left;">
 None found
@@ -816,7 +818,7 @@ TEN
 ITF
 </td>
 <td style="text-align:left;">
-www.itftennis.com/en/
+www.itftennis.com/en
 </td>
 <td style="text-align:left;">
 None found
@@ -833,7 +835,7 @@ TRI
 ITU
 </td>
 <td style="text-align:left;">
-www.triathlon.org/
+www.triathlon.org
 </td>
 <td style="text-align:left;">
 github.com/tyler-widdison/rTriathlon
@@ -867,7 +869,7 @@ WLF
 IWF
 </td>
 <td style="text-align:left;">
-iwf.sport/
+iwf.sport
 </td>
 <td style="text-align:left;">
 None found
