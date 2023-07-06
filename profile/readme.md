@@ -9,7 +9,7 @@
 Inspiration coming from the <https://github.com/sportsdataverse>, I
 found there was no common place with Olympic data. After discovering
 some sports have public access to data I decided to start this
-organization with the intent of a data distribution knowledge base.
+organization with the intent of a data distribution knowledge.
 
 ### Sources:
 
