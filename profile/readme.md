@@ -56,7 +56,7 @@ WAqua
 www.worldaquatics.com
 </td>
 <td style="text-align:left;">
-api.worldaquatics.com/fina/competitions/3085/events
+[api.worldaquatics.com/fina/competitions/3085/events](url)
 </td>
 </tr>
 <tr>
